@@ -6,6 +6,7 @@ public class FirstProgram {
 	 System.out.println("Hello");
 	 System.out.println("Hello world");
 	 System.out.println("Suvendu");
+	 System.out.println("bye");
 	}
 	}
 
